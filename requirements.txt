@@ -1,6 +1,8 @@
+torch
 diffusers
 transformers
 accelerate
 peft
 streamlit
-torch
+pillow
+requests
